@@ -1,6 +1,6 @@
 
 
-  <a href="https://epicchain.org">EpicChain</a> Local Development and Testing Environment
+  <a href="https://epic-chain.org">EpicChain</a> Local Development and Testing Environment
 </p>
 
 ---
@@ -27,7 +27,7 @@ Follow these steps to quickly set up and start using the EpicChain development e
 1. **Clone the Repository**: Begin by cloning the repository to your local machine. This step retrieves the source code and configurations required for the Devenv setup.
 
     ```bash
-    $ git clone https://github.com/epicchain-dev/devenv.git
+    $ git clone https://github.com/epicchainlabs/epicchain-dev-env.git
     ```
 
 2. **Initial Setup**: Run the following commands from the root directory of the cloned repository:
