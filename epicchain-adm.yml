@@ -1,0 +1,4 @@
+rpc-endpoint: http://ir01.neofs.devenv:30333
+credentials:
+  az: "one"
+  contract: "one"
